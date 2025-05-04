@@ -17,5 +17,4 @@ To solidify my understanding of JavaScript by writing clean, testable, and pract
 
 ⸻
 
-
 Feel free to explore, fork, or suggest improvements!
